@@ -1,0 +1,1580 @@
+#EXTINF:-1 group-title="Canais | GLOBO",Globo
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 group-title="Canais | RECORD TV",RecordTV
+https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
+#EXTINF:-1 group-title="Canais | BAND TV",Band Arapuan HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | BAND TV",Band TV - Vale do Uruará HD
+https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8?Manotv
+#EXTINF:-1 group-title="Canais | SBT",SBT
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 group-title="Canais | SBT",SBT
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 group-title="Canais | SBT",SBT
+https://stream.amsolution.net.br:8443/live/66e04072024b3/index.m3u8
+#EXTINF:-1 group-title="Canais | SBT",SBT
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais | SBT",SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 group-title="Canais | SBT",SBT
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",RedeTV!
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",RedeTV!
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",RedeTV!
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TVE Bahia HD
+http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV SIM Linhares
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV BRASIL SC
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV BRASIL PB
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Cultura
+https://stream1.freetv.fun/tv-gazeta-1.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Cultura
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",Cultura
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Cultura
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Cultura
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ESPORTES",BAND SPORTS
+https://stream1.freetv.fun/band-sports-3.m3u8
+#EXTINF:-1 group-title="ao vivo | FUTEBOL",Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",TVD News FHD
+http://201.159.95.110:25461/live/site/site/666.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",BM&C NEWS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",CNN Brasil Money
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",JP NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",JP NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",JP NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",BANDNEWS
+http://super-cdn.link/bandnews/index.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",Resumo da Ópera
+https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",011 News HD
+https://011news.akamaized.net/011news/011news/playlist.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",TV Câmera HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",TV Câmera
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",TV SENADO
+https://stream1.freetv.fun/tv-senado-1.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",Canal GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 group-title="Canais | NOTÍCIAS",TV VIDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV KFood
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Cozinha
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | VARIEDADES",People Are Awesome
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | VARIEDADES",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Turbo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | VARIEDADES",Motorvision FHD
+https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
+#EXTINF:-1 group-title="Canais | VARIEDADES",Motorvision |PT HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
+#EXTINF:-1 group-title="Canais | VARIEDADES",MAVTV Brasil
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Canais | VARIEDADES",Cultne TV
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Investigação
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae-11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
+#EXTINF:-1 group-title="Canais | VARIEDADES",Os Arquivos do FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV MISTÉRIOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Documentários
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Minha Obsessão Favorita
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Animais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | VARIEDADES",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | VARIEDADES",Curta!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:-1 group-title="Canais | VARIEDADES",Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | NOVELAS",PLUTO TV NOVELAS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | NOVELAS",TVi Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | NOVELAS",TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | NOVELAS",Televisa Telenovelas | Itália
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | NOVELAS",TV Telenovelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Canais | NOVELAS",Telenovelas | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | NOVELAS",Novelas Evagina | Pluto TV Argentina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | NOVELAS",TV Telemundo Telenovelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+#EXTINF:-1 group-title="Canais | NOVELAS",Novelissima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 group-title="Canais | NOVELAS",Novelissima BR
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+#EXTINF:-1 group-title="Canais | NOVELAS",Sony Novelas | LG
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | FILMES E SERIES",TNT
+https://s1.embecdn.site/TNT/index.m3u8
+#EXTINF:-1 group-title="Canais | FILMES E SERIES",TNT
+https://super-cdn.link/tnt/index.m3u8
+#EXTINF:-1 group-title="Canais | FILMES E SERIES",MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | FILMES E SERIES",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | FILMES E SERIES",Cine Monde
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 group-title="Canais | FILMES E SERIES",CHANNEL ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="Canais | FILMES",Runtime Ação HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 group-title="Canais | FILMES",Runtime TV e Filmes Grátis
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="Canais | FILMES",Runtime Comédia HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 group-title="Canais | FILMES",Runtime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 group-title="Canais | FILMES",Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 group-title="Canais | FILMES",Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 group-title="Canais | FILMES",Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV NetMovies
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",PLUTO TV Bang Bang
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9dc7cb3ea10008f1a0ce/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",Runtime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Canais | FILMES",PLUTO TV FILMES AVENTURA
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",PLUTO TV TERROR TRASH
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Inspiração
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Sucessos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Filmes Ação
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Terror
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Drama
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Família
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Romance
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f84953a8-0c9c-11ec-8983-0242ac110003&sid=f84953a8-0c9c-11ec-8983-0242ac110003&userId=
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Comédia Romântica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | FILMES",Filmes Suspense
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=1816ea1a-0c99-11ec-ade7-0242ac110003&sid=1816ea1a-0c99-11ec-ade7-0242ac110003&userId=
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Cine Clássicos
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Filmes Nacionais
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
+#EXTINF:-1 group-title="Canais | FILMES",Pluto TV Ficção Científica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | SÉRIES",Z NATION
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af48d2d50d00083d6936/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | SÉRIES",Séries de Comédia | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | SÉRIES",Pluto TV Séries Criminais
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | SÉRIES",Pluto TV Séries Ação
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | SÉRIES",Pluto TV Séries Drama
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | SÉRIES",Pluto TV Séries Comédia
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | SÉRIES",Rookie Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | SÉRIES",Clube do Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | SÉRIES",BET Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | SÉRIES",NCIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | SÉRIES",CSI: Miami
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | SÉRIES",Pluto TV Séries Sci-Fi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | SÉRIES",Younger
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | SÉRIES",O Homem que veio do Céu
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Jojo's Bizarre adventure
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Pluto TV Anime Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Naruto Shippuden
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Boruto: Naruto Next Generations
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Hunter x Hunter
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Beyblade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Tokusato
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Pluto TV Geek e Tech
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Pluto TV Gaming por Ubisoft
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Loading...TV HD
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Dragon Ball 24
+http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z 24
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z Kai 24h
+http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Gt 24h
+http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Super 24h
+http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Naruto 24h
+http://24hrs.homelinux.com:80/24H-naruto.txt/video.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Naruto Shippuden 24h
+http://24hrs.homelinux.com:80/24H-narutoshippuden.txt/video.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Boruto 24h
+http://24hrs.homelinux.com:80/24H-boruto/video.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Hantaro 24h
+http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
+#EXTINF:-1 group-title="Canais | ANIMES & GEEK",🔴Jiraya 24h
+http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",PLUTO TV CINEMINHA
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | INFANTIL",PLUTO TV DESENHOS CLÁSSICOS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | INFANTIL",PLUTO TV KIDS CLUB
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | INFANTIL",Cocoricó
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | INFANTIL",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | INFANTIL",O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | INFANTIL",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | INFANTIL",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 group-title="Canais | INFANTIL",NICK CLÁSSICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 group-title="Canais | INFANTIL",Babyfirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | INFANTIL",Super Onze
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | INFANTIL",Os Padrinhos Mágicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | INFANTIL",Baby Shark
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | INFANTIL",Moranguinho
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | INFANTIL",TELETUBBIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | INFANTIL",Oggy e as Baratas Tontas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | INFANTIL",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",Toon Googles HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
+#EXTINF:-1 group-title="Canais | ABERTO",TV Nostalgia
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",ADULT SWIM FHD
+http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
+#EXTINF:-1 group-title="Canais | ABERTO",Ministério Infantil TV
+http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Chapolin Colorado 24h
+http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Chaves 24h
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Masha e o Urso 24h
+http://24hrs.homelinux.com:80/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Pokemon 24h
+http://24hrs.homelinux.com:80/24H-pokemon/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Digimon 24h
+http://24hrs.homelinux.com:80/24H-digimon/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Ben 10 2005 24h
+http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Poderoso Chefinho 24h
+http://24hrs.homelinux.com:80/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Mickey e Donald 24h
+http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Hantaro 24h
+http://24hrs.homelinux.com:80/24H-hantaro/index.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Luluzinha 24h
+http://24hrs.homelinux.com:80/24H-luluzinha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Jaspion 24h
+http://24hrs.homelinux.com:80/24H-jaspion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Thundercats 24h
+http://24hrs.homelinux.com:80/24H-thundercats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Mundo De Boby 24h
+http://24hrs.homelinux.com:80/24H-ofantasticomundodeboby/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Tom & Jerry 24h
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Scoobdoo 24h
+http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Popeye 24h
+http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Os Simpsons 24h
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴X-Men Evolution 24h
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴PicaPau 24h
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Cavaleiros Zodiaco 24h
+http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | INFANTIL",🔴Os Flistony 24h
+http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8
+#EXTINF:-1 group-title="Canais | MÚSICA",MTV Classic
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | MÚSICA",Pluto TV Karaokê por Stringray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Canais | MÚSICA",TOP TV FHD
+https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | MÚSICA",MaisUm
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF:-1 group-title="Canais | MÚSICA",Kiss TV
+https://isaocorp.cloudecast.com/kisstv/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Gospel Music TV
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 group-title="Canais | VARIEDADES",Salon line
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Viagens
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pluto TV Vida Real
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef21-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29b136d2-3f75-488b-9ace-35ab0ac5684e&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Canais | VARIEDADES",Pronto-socorro: Histórias De Emergência
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | VARIEDADES",Assombrações
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | VARIEDADES",Detetives Médicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | VARIEDADES",Smithsonian Channel Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Canais | ABERTO",TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Cultura
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+#EXTINF:-1 group-title="Canais | ABERTO",SANTA CRUZ WEB TV
+https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Novo Tempo SD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Novo Tempo HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Paraná Turismo
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Candidés
+https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV RBC
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",BS TV
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",BR Super TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",PBC TV
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",Rede Vida HD
+https://cdn2.easy.tv.br/redevida/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Grão Pará
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",Clube Web TV
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",ISTV HD
+https://cdn2.easy.tv.br/istv/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",ISTV FHD
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",NBT
+https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",Sou TV.
+https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Rede Brasil PA
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",Rede Brasil HD
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Agro Canal
+https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Brasil Central
+https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
+#EXTINF:-1 group-title="Canais | ABERTO",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Astral TV FHD
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Rede UTV
+https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Caravana Play
+https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Cidade Verde
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Wtj TV Minas
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Vianney
+https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Canção Nova Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Canção Nova HD
+https://super-cdn.link/cancaonova/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Alternativa
+https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",CLASSIQUE TV SERIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV OURO NEGRO
+https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Igreja Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Gospel Movies TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Gramado
+https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TVC
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV União Fortaleza
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV União Rio Branco
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV SIM São Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV SIM Colatina
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV da Gente
+https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",CATVE 2
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",RS News WebTV 2
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV CNB ORLANDO
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV CNB AMERICAN
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",VClassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Jornal HD
+https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Channel Network
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Rede Mundo d Televisão
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Primer TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Chroma
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",VV8 TV
+https://video01.kshost.com.br:4443/seap8272/seap8272/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Terceira via
+https://video01.kshost.com.br:4443/terceira7669/terceira7669/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",TV Rio Preto
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Rede IBTV
+https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Demais TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",WTV Brasil
+https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",AgitoMax
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",Universo TV
+https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ABERTO",ComBrasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 group-title="Canais | INTERNACIONAL",Sic Noticias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 group-title="Canais | INTERNACIONAL",Assim é Portugal | Brasil
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES",Pluto TV Esportes
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 group-title="Canais | ESPORTES",Realmadrid TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Aberta",TV Cultura PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Aberta",02 - Cultura PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="United kingdom",UK: Sky Cinema Premiere HD
+http://tooontv.com:999/live/ere3444h/agape/1571.ts
+#EXTINF:-1 group-title="Portugal",---------- FILMES & SERIES ----------
+http://tooontv.com:999/live/ere3444h/agape/17739.ts
+#EXTINF:-1 group-title="Portugal",---------- DOCUMENTARIOS ----------
+http://tooontv.com:999/live/ere3444h/agape/17740.ts
+#EXTINF:-1 group-title="Brazil",BR: LIGA FUTSAL HD
+http://tooontv.com:999/live/ere3444h/agape/199106.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT Sports Estadio 6 HD
+http://tooontv.com:999/live/ere3444h/agape/199107.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT Sports Estadio 5 HD
+http://tooontv.com:999/live/ere3444h/agape/199108.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT Sports Estadio 4 HD
+http://tooontv.com:999/live/ere3444h/agape/199109.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT Sports Estadio 3 HD
+http://tooontv.com:999/live/ere3444h/agape/199110.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT Sports Estadio 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199111.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT Sports Estadio 1 HD
+http://tooontv.com:999/live/ere3444h/agape/199112.ts
+#EXTINF:-1 group-title="Brazil",BR: DAZN 4 HD
+http://tooontv.com:999/live/ere3444h/agape/199113.ts
+#EXTINF:-1 group-title="Brazil",BR: DAZN 3 HD
+http://tooontv.com:999/live/ere3444h/agape/199114.ts
+#EXTINF:-1 group-title="Brazil",BR: DAZN 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199115.ts
+#EXTINF:-1 group-title="Brazil",BR: DAZN 1 HD
+http://tooontv.com:999/live/ere3444h/agape/199116.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Max 6 HD
+http://tooontv.com:999/live/ere3444h/agape/199117.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Max 5 HD
+http://tooontv.com:999/live/ere3444h/agape/199118.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Max 4 HD
+http://tooontv.com:999/live/ere3444h/agape/199119.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Max 3 HD
+http://tooontv.com:999/live/ere3444h/agape/199120.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Max 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199121.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Max 1 HD
+http://tooontv.com:999/live/ere3444h/agape/199122.ts
+#EXTINF:-1 group-title="Brazil",BR: STAR+ 7 HD
+http://tooontv.com:999/live/ere3444h/agape/199123.ts
+#EXTINF:-1 group-title="Brazil",BR: STAR+ 6 HD
+http://tooontv.com:999/live/ere3444h/agape/199124.ts
+#EXTINF:-1 group-title="Brazil",BR: STAR+ 5 HD
+http://tooontv.com:999/live/ere3444h/agape/199125.ts
+#EXTINF:-1 group-title="Brazil",BR: STAR+ 4 HD
+http://tooontv.com:999/live/ere3444h/agape/199126.ts
+#EXTINF:-1 group-title="Brazil",BR: STAR+ 3 HD
+http://tooontv.com:999/live/ere3444h/agape/199127.ts
+#EXTINF:-1 group-title="Brazil",BR: STAR+ 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199128.ts
+#EXTINF:-1 group-title="Brazil",BR: STAR+ 1 HD
+http://tooontv.com:999/live/ere3444h/agape/199129.ts
+#EXTINF:-1 group-title="Brazil",BR: TV Carioca HD
+http://tooontv.com:999/live/ere3444h/agape/199130.ts
+#EXTINF:-1 group-title="Brazil",BR: SBT SP
+http://tooontv.com:999/live/ere3444h/agape/199131.ts
+#EXTINF:-1 group-title="Brazil",BR: Conmebol 1 FHD
+http://tooontv.com:999/live/ere3444h/agape/199132.ts
+#EXTINF:-1 group-title="Brazil",BR: Conmebol 2 FHD
+http://tooontv.com:999/live/ere3444h/agape/199133.ts
+#EXTINF:-1 group-title="Brazil",BR: Conmebol 3 FHD
+http://tooontv.com:999/live/ere3444h/agape/199134.ts
+#EXTINF:-1 group-title="Brazil",BR: Conmebol 4 FHD
+http://tooontv.com:999/live/ere3444h/agape/199135.ts
+#EXTINF:-1 group-title="Brazil",BR: Premiere 7 FHD
+http://tooontv.com:999/live/ere3444h/agape/199136.ts
+#EXTINF:-1 group-title="Brazil",BR: Premiere 6 FHD
+http://tooontv.com:999/live/ere3444h/agape/199137.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RPC Ponta Grossa FHD
+http://tooontv.com:999/live/ere3444h/agape/199138.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RPC Maringa FHD
+http://tooontv.com:999/live/ere3444h/agape/199139.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RPC Foz do Iguaçu FHD
+http://tooontv.com:999/live/ere3444h/agape/199140.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RPC Curitiba FHD
+http://tooontv.com:999/live/ere3444h/agape/199141.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RJ FHD
+http://tooontv.com:999/live/ere3444h/agape/199142.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Rede Amazonica FHD
+http://tooontv.com:999/live/ere3444h/agape/199143.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RBS TV Santa Maria FHD
+http://tooontv.com:999/live/ere3444h/agape/199144.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RBS TV POA FHD
+http://tooontv.com:999/live/ere3444h/agape/199145.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RBS TV Pelotas FHD
+http://tooontv.com:999/live/ere3444h/agape/199146.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RBS TV Caxias do Sul FHD
+http://tooontv.com:999/live/ere3444h/agape/199147.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RBS TV 4K
+http://tooontv.com:999/live/ere3444h/agape/199148.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo NSC TV Joinville FHD
+http://tooontv.com:999/live/ere3444h/agape/199149.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo NSC TV Criciuma FHD
+http://tooontv.com:999/live/ere3444h/agape/199150.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo NSC TV Chapeco FHD
+http://tooontv.com:999/live/ere3444h/agape/199151.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo NSC TV Blumenau FHD
+http://tooontv.com:999/live/ere3444h/agape/199152.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo NSC Florianopolis FHD
+http://tooontv.com:999/live/ere3444h/agape/199153.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo NSC Centro Oeste FHD
+http://tooontv.com:999/live/ere3444h/agape/199154.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo NOW
+http://tooontv.com:999/live/ere3444h/agape/199155.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Nordeste FHD
+http://tooontv.com:999/live/ere3444h/agape/199156.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo News FHD
+http://tooontv.com:999/live/ere3444h/agape/199157.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Minas FHD
+http://tooontv.com:999/live/ere3444h/agape/199158.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Inter TV Grande Minas FHD
+http://tooontv.com:999/live/ere3444h/agape/199159.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Inter TV Cabugi FHD
+http://tooontv.com:999/live/ere3444h/agape/199160.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Inter TV Alto Litoral FHD
+http://tooontv.com:999/live/ere3444h/agape/199161.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Inter PT FHD
+http://tooontv.com:999/live/ere3444h/agape/199162.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Inter Cabugi HD
+http://tooontv.com:999/live/ere3444h/agape/199163.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo EPTV São Carlos
+http://tooontv.com:999/live/ere3444h/agape/199164.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo EPTV Sul de Minas FHD
+http://tooontv.com:999/live/ere3444h/agape/199165.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo EPTV Ribeirão Preto
+http://tooontv.com:999/live/ere3444h/agape/199166.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo EPTV Campinas FHD
+http://tooontv.com:999/live/ere3444h/agape/199167.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Centro America FHD
+http://tooontv.com:999/live/ere3444h/agape/199168.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Amazônica HD
+http://tooontv.com:999/live/ere3444h/agape/199169.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Amazonica Manaus HD
+http://tooontv.com:999/live/ere3444h/agape/199170.ts
+#EXTINF:-1 group-title="Brazil",BR:TNT SPORTS 1 HD
+http://tooontv.com:999/live/ere3444h/agape/199171.ts
+#EXTINF:-1 group-title="Brazil",BR:TNT SPORTS 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199172.ts
+#EXTINF:-1 group-title="Brazil",BR:TNT SPORTS 3 HD
+http://tooontv.com:999/live/ere3444h/agape/199173.ts
+#EXTINF:-1 group-title="Brazil",BR:TNT SPORTS 4 HD
+http://tooontv.com:999/live/ere3444h/agape/199174.ts
+#EXTINF:-1 group-title="Brazil",BR:TNT SPORTS 5 HD
+http://tooontv.com:999/live/ere3444h/agape/199175.ts
+#EXTINF:-1 group-title="Brazil",BR:TNT SPORTS 6 HD
+http://tooontv.com:999/live/ere3444h/agape/199176.ts
+#EXTINF:-1 group-title="Brazil",BR: WOOHOO HD
+http://tooontv.com:999/live/ere3444h/agape/199177.ts
+#EXTINF:-1 group-title="Brazil",BR: WARNER CHANNEL HD
+http://tooontv.com:999/live/ere3444h/agape/199178.ts
+#EXTINF:-1 group-title="Brazil",BR: Viva
+http://tooontv.com:999/live/ere3444h/agape/199179.ts
+#EXTINF:-1 group-title="Brazil",BR: UNIVERSAL CHANNEL HD
+http://tooontv.com:999/live/ere3444h/agape/199180.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT SERIES HD
+http://tooontv.com:999/live/ere3444h/agape/199181.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT Series
+http://tooontv.com:999/live/ere3444h/agape/199182.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT HD
+http://tooontv.com:999/live/ere3444h/agape/199183.ts
+#EXTINF:-1 group-title="Brazil",BR: TNT
+http://tooontv.com:999/live/ere3444h/agape/199184.ts
+#EXTINF:-1 group-title="Brazil",BR: TLC
+http://tooontv.com:999/live/ere3444h/agape/199185.ts
+#EXTINF:-1 group-title="Brazil",BR: Telecine Touch
+http://tooontv.com:999/live/ere3444h/agape/199186.ts
+#EXTINF:-1 group-title="Brazil",BR: TELECINE PREMIUM HD
+http://tooontv.com:999/live/ere3444h/agape/199187.ts
+#EXTINF:-1 group-title="Brazil",BR: TELECINE PIPOCA HD
+http://tooontv.com:999/live/ere3444h/agape/199188.ts
+#EXTINF:-1 group-title="Brazil",BR: Telecine Pipoca
+http://tooontv.com:999/live/ere3444h/agape/199189.ts
+#EXTINF:-1 group-title="Brazil",BR: TELECINE FUN HD
+http://tooontv.com:999/live/ere3444h/agape/199190.ts
+#EXTINF:-1 group-title="Brazil",BR: TELECINE CULT HD
+http://tooontv.com:999/live/ere3444h/agape/199191.ts
+#EXTINF:-1 group-title="Brazil",BR: Telecine Cult
+http://tooontv.com:999/live/ere3444h/agape/199192.ts
+#EXTINF:-1 group-title="Brazil",BR: TELECINE ACTION HD
+http://tooontv.com:999/live/ere3444h/agape/199193.ts
+#EXTINF:-1 group-title="Brazil",BR: SYFY HD
+http://tooontv.com:999/live/ere3444h/agape/199194.ts
+#EXTINF:-1 group-title="Brazil",BR: SyFy
+http://tooontv.com:999/live/ere3444h/agape/199195.ts
+#EXTINF:-1 group-title="Brazil",BR: STUDIO UNIVERSAL HD
+http://tooontv.com:999/live/ere3444h/agape/199196.ts
+#EXTINF:-1 group-title="Brazil",BR: SPORTV HD
+http://tooontv.com:999/live/ere3444h/agape/199197.ts
+#EXTINF:-1 group-title="Brazil",BR: SPORTV 3 HD
+http://tooontv.com:999/live/ere3444h/agape/199198.ts
+#EXTINF:-1 group-title="Brazil",BR: Sportv 3
+http://tooontv.com:999/live/ere3444h/agape/199199.ts
+#EXTINF:-1 group-title="Brazil",BR: SPORTV 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199083.ts
+#EXTINF:-1 group-title="Brazil",BR: SporTV 2
+http://tooontv.com:999/live/ere3444h/agape/199060.ts
+#EXTINF:-1 group-title="Brazil",BR: SPACE HD
+http://tooontv.com:999/live/ere3444h/agape/199075.ts
+#EXTINF:-1 group-title="Brazil",BR: SONY HD
+http://tooontv.com:999/live/ere3444h/agape/199200.ts
+#EXTINF:-1 group-title="Brazil",BR: Sony
+http://tooontv.com:999/live/ere3444h/agape/199074.ts
+#EXTINF:-1 group-title="Brazil",BR: SBT
+http://tooontv.com:999/live/ere3444h/agape/199040.ts
+#EXTINF:-1 group-title="Brazil",BR: REDE TV HD
+http://tooontv.com:999/live/ere3444h/agape/199201.ts
+#EXTINF:-1 group-title="Brazil",BR: Rede New
+http://tooontv.com:999/live/ere3444h/agape/199064.ts
+#EXTINF:-1 group-title="Brazil",BR: RECORD SP HD
+http://tooontv.com:999/live/ere3444h/agape/199051.ts
+#EXTINF:-1 group-title="Brazil",BR: Record
+http://tooontv.com:999/live/ere3444h/agape/199059.ts
+#EXTINF:-1 group-title="Brazil",BR: PREMIERE CLUBES HD
+http://tooontv.com:999/live/ere3444h/agape/199202.ts
+#EXTINF:-1 group-title="Brazil",BR: PREMIERE 5 HD
+http://tooontv.com:999/live/ere3444h/agape/199078.ts
+#EXTINF:-1 group-title="Brazil",BR: PREMIERE 4 HD
+http://tooontv.com:999/live/ere3444h/agape/199071.ts
+#EXTINF:-1 group-title="Brazil",BR: PREMIERE 3 HD
+http://tooontv.com:999/live/ere3444h/agape/199087.ts
+#EXTINF:-1 group-title="Brazil",BR: PREMIERE 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199030.ts
+#EXTINF:-1 group-title="Brazil",BR: PARAMOUNT CHANNEL HD
+http://tooontv.com:999/live/ere3444h/agape/199054.ts
+#EXTINF:-1 group-title="Brazil",BR: Paramount
+http://tooontv.com:999/live/ere3444h/agape/199089.ts
+#EXTINF:-1 group-title="Brazil",BR: OFF HD
+http://tooontv.com:999/live/ere3444h/agape/199069.ts
+#EXTINF:-1 group-title="Brazil",BR: NICKELODEON HD
+http://tooontv.com:999/live/ere3444h/agape/199068.ts
+#EXTINF:-1 group-title="Brazil",BR: Nickelodeon
+http://tooontv.com:999/live/ere3444h/agape/199058.ts
+#EXTINF:-1 group-title="Brazil",BR: NICK JR HD
+http://tooontv.com:999/live/ere3444h/agape/199095.ts
+#EXTINF:-1 group-title="Brazil",BR: NATIONAL GEOGRAPHIC HD
+http://tooontv.com:999/live/ere3444h/agape/199046.ts
+#EXTINF:-1 group-title="Brazil",BR: NATGEO WILD HD
+http://tooontv.com:999/live/ere3444h/agape/199203.ts
+#EXTINF:-1 group-title="Brazil",BR: Nat Geo Kids
+http://tooontv.com:999/live/ere3444h/agape/199042.ts
+#EXTINF:-1 group-title="Brazil",BR: Nat Geo
+http://tooontv.com:999/live/ere3444h/agape/199088.ts
+#EXTINF:-1 group-title="Brazil",BR: MULTISHOW HD
+http://tooontv.com:999/live/ere3444h/agape/199070.ts
+#EXTINF:-1 group-title="Brazil",BR: MTV
+http://tooontv.com:999/live/ere3444h/agape/199080.ts
+#EXTINF:-1 group-title="Brazil",BR: MEGAPIX HD
+http://tooontv.com:999/live/ere3444h/agape/199204.ts
+#EXTINF:-1 group-title="Brazil",BR: Megapix
+http://tooontv.com:999/live/ere3444h/agape/199076.ts
+#EXTINF:-1 group-title="Brazil",BR: LIFETIME HD
+http://tooontv.com:999/live/ere3444h/agape/199100.ts
+#EXTINF:-1 group-title="Brazil",BR: Life Time
+http://tooontv.com:999/live/ere3444h/agape/199086.ts
+#EXTINF:-1 group-title="Brazil",BR: ID - INVESTIGACAO DISCOVERY HD
+http://tooontv.com:999/live/ere3444h/agape/199029.ts
+#EXTINF:-1 group-title="Brazil",BR: HISTORY CHANNEL HD
+http://tooontv.com:999/live/ere3444h/agape/199023.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO SIGNATURE HD
+http://tooontv.com:999/live/ere3444h/agape/199045.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Plus
+http://tooontv.com:999/live/ere3444h/agape/199105.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO HD
+http://tooontv.com:999/live/ere3444h/agape/199036.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO FAMILY HD
+http://tooontv.com:999/live/ere3444h/agape/199027.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO Family
+http://tooontv.com:999/live/ere3444h/agape/199049.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199103.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO 2
+http://tooontv.com:999/live/ere3444h/agape/199056.ts
+#EXTINF:-1 group-title="Brazil",BR: HBO
+http://tooontv.com:999/live/ere3444h/agape/199035.ts
+#EXTINF:-1 group-title="Brazil",BR: H2 HD
+http://tooontv.com:999/live/ere3444h/agape/199020.ts
+#EXTINF:-1 group-title="Brazil",BR: H2
+http://tooontv.com:999/live/ere3444h/agape/199091.ts
+#EXTINF:-1 group-title="Brazil",BR: GNT HD
+http://tooontv.com:999/live/ere3444h/agape/199065.ts
+#EXTINF:-1 group-title="Brazil",BR: GNT
+http://tooontv.com:999/live/ere3444h/agape/199099.ts
+#EXTINF:-1 group-title="Brazil",BR: GLOOB HD
+http://tooontv.com:999/live/ere3444h/agape/199082.ts
+#EXTINF:-1 group-title="Brazil",BR: GLOBOSAT HD
+http://tooontv.com:999/live/ere3444h/agape/199205.ts
+#EXTINF:-1 group-title="Brazil",BR: GLOBO SP HD
+http://tooontv.com:999/live/ere3444h/agape/199024.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo SP
+http://tooontv.com:999/live/ere3444h/agape/199206.ts
+#EXTINF:-1 group-title="Brazil",BR: GLOBO RJ HD
+http://tooontv.com:999/live/ere3444h/agape/199053.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo RJ
+http://tooontv.com:999/live/ere3444h/agape/199055.ts
+#EXTINF:-1 group-title="Brazil",BR: GLOBO NORDESTE HD
+http://tooontv.com:999/live/ere3444h/agape/199101.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo News
+http://tooontv.com:999/live/ere3444h/agape/199104.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Brasilia
+http://tooontv.com:999/live/ere3444h/agape/199041.ts
+#EXTINF:-1 group-title="Brazil",BR: Globo Bahia
+http://tooontv.com:999/live/ere3444h/agape/199047.ts
+#EXTINF:-1 group-title="Brazil",BR: FX
+http://tooontv.com:999/live/ere3444h/agape/199038.ts
+#EXTINF:-1 group-title="Brazil",BR: FOX SPORTS 2 HD
+http://tooontv.com:999/live/ere3444h/agape/199092.ts
+#EXTINF:-1 group-title="Brazil",BR: Fox Sports 2
+http://tooontv.com:999/live/ere3444h/agape/199066.ts
+#EXTINF:-1 group-title="Brazil",BR: Fox Sports 1
+http://tooontv.com:999/live/ere3444h/agape/199022.ts
+#EXTINF:-1 group-title="Brazil",BR: FOX PREMIUM 1 HD
+http://tooontv.com:999/live/ere3444h/agape/199025.ts
+#EXTINF:-1 group-title="Brazil",BR: FOX LIFE HD
+http://tooontv.com:999/live/ere3444h/agape/199021.ts
+#EXTINF:-1 group-title="Brazil",BR: Fox Life
+http://tooontv.com:999/live/ere3444h/agape/199207.ts
+#EXTINF:-1 group-title="Brazil",BR: FOX HD
+http://tooontv.com:999/live/ere3444h/agape/199026.ts
+#EXTINF:-1 group-title="Brazil",BR: FOX
+http://tooontv.com:999/live/ere3444h/agape/199084.ts
+#EXTINF:-1 group-title="Brazil",BR: FOOD NETWORK HD
+http://tooontv.com:999/live/ere3444h/agape/199061.ts
+#EXTINF:-1 group-title="Brazil",BR: ESPN BRASIL HD
+http://tooontv.com:999/live/ere3444h/agape/199032.ts
+#EXTINF:-1 group-title="Brazil",BR: ESPN Brasil
+http://tooontv.com:999/live/ere3444h/agape/199090.ts
+#EXTINF:-1 group-title="Brazil",BR: ESPN  HD
+http://tooontv.com:999/live/ere3444h/agape/199063.ts
+#EXTINF:-1 group-title="Brazil",BR: ESPN
+http://tooontv.com:999/live/ere3444h/agape/199077.ts
+#EXTINF:-1 group-title="Brazil",BR: E!
+http://tooontv.com:999/live/ere3444h/agape/199028.ts
+#EXTINF:-1 group-title="Brazil",BR: DISNEY XD HD
+http://tooontv.com:999/live/ere3444h/agape/199033.ts
+#EXTINF:-1 group-title="Brazil",BR: DISNEY JR HD
+http://tooontv.com:999/live/ere3444h/agape/199079.ts
+#EXTINF:-1 group-title="Brazil",BR: Disney JR
+http://tooontv.com:999/live/ere3444h/agape/199062.ts
+#EXTINF:-1 group-title="Brazil",BR: DISNEY CHANNEL HD
+http://tooontv.com:999/live/ere3444h/agape/199208.ts
+#EXTINF:-1 group-title="Brazil",BR: Disney channel
+http://tooontv.com:999/live/ere3444h/agape/199050.ts
+#EXTINF:-1 group-title="Brazil",BR: DISCOVERY WORLD HD
+http://tooontv.com:999/live/ere3444h/agape/199072.ts
+#EXTINF:-1 group-title="Brazil",BR: DISCOVERY TURBO HD
+http://tooontv.com:999/live/ere3444h/agape/199039.ts
+#EXTINF:-1 group-title="Brazil",BR: Discovery Turbo
+http://tooontv.com:999/live/ere3444h/agape/199073.ts
+#EXTINF:-1 group-title="Brazil",BR: DISCOVERY THEATER HD
+http://tooontv.com:999/live/ere3444h/agape/199031.ts
+#EXTINF:-1 group-title="Brazil",BR: DISCOVERY KIDS HD
+http://tooontv.com:999/live/ere3444h/agape/199043.ts
+#EXTINF:-1 group-title="Brazil",BR: DISCOVERY HOME & HEALTH HD
+http://tooontv.com:999/live/ere3444h/agape/199019.ts
+#EXTINF:-1 group-title="Brazil",BR: Discovery H&H
+http://tooontv.com:999/live/ere3444h/agape/199209.ts
+#EXTINF:-1 group-title="Brazil",BR: DISCOVERY SCIENCE HD
+http://tooontv.com:999/live/ere3444h/agape/199067.ts
+#EXTINF:-1 group-title="Brazil",BR: DISCOVERY CHANNEL HD
+http://tooontv.com:999/live/ere3444h/agape/199037.ts
+#EXTINF:-1 group-title="Brazil",BR: COMEDY CENTRAL HD
+http://tooontv.com:999/live/ere3444h/agape/199097.ts
+#EXTINF:-1 group-title="Brazil",BR: Comedy Central
+http://tooontv.com:999/live/ere3444h/agape/199210.ts
+#EXTINF:-1 group-title="Brazil",BR: COMBATE HD
+http://tooontv.com:999/live/ere3444h/agape/199094.ts
+#EXTINF:-1 group-title="Brazil",BR: Combate
+http://tooontv.com:999/live/ere3444h/agape/199211.ts
+#EXTINF:-1 group-title="Brazil",BR: Cinemax
+http://tooontv.com:999/live/ere3444h/agape/199212.ts
+#EXTINF:-1 group-title="Brazil",BR: Cartoon Network
+http://tooontv.com:999/live/ere3444h/agape/199057.ts
+#EXTINF:-1 group-title="Brazil",BR: BOOMERANG HD
+http://tooontv.com:999/live/ere3444h/agape/199096.ts
+#EXTINF:-1 group-title="Brazil",BR: Boomerang
+http://tooontv.com:999/live/ere3444h/agape/199044.ts
+#EXTINF:-1 group-title="Brazil",BR: BAND SPORTS HD
+http://tooontv.com:999/live/ere3444h/agape/199085.ts
+#EXTINF:-1 group-title="Brazil",BR: Band Sports
+http://tooontv.com:999/live/ere3444h/agape/199093.ts
+#EXTINF:-1 group-title="Brazil",BR: BAND SP HD
+http://tooontv.com:999/live/ere3444h/agape/199081.ts
+#EXTINF:-1 group-title="Brazil",BR: BAND NEWS HD
+http://tooontv.com:999/live/ere3444h/agape/199102.ts
+#EXTINF:-1 group-title="Brazil",BR: Band News
+http://tooontv.com:999/live/ere3444h/agape/199098.ts
+#EXTINF:-1 group-title="Brazil",BR: AXN HD
+http://tooontv.com:999/live/ere3444h/agape/199052.ts
+#EXTINF:-1 group-title="Brazil",BR: AXN
+http://tooontv.com:999/live/ere3444h/agape/199048.ts
+#EXTINF:-1 group-title="Brazil",BR: ANIMAL PLANET HD
+http://tooontv.com:999/live/ere3444h/agape/199034.ts
+#EXTINF:-1 group-title="Brazil",BR: AMC
+http://tooontv.com:999/live/ere3444h/agape/199015.ts
+#EXTINF:-1 group-title="Brazil",BR: A & E
+http://tooontv.com:999/live/ere3444h/agape/199007.ts
+#EXTINF:-1 group-title="Brazil",BR:  Telecine Premium
+http://tooontv.com:999/live/ere3444h/agape/199017.ts
+#EXTINF:-1 group-title="Brazil",BR:  Telecine Fun
+http://tooontv.com:999/live/ere3444h/agape/199016.ts
+#EXTINF:-1 group-title="Brazil",BR:  Telecine Action
+http://tooontv.com:999/live/ere3444h/agape/199009.ts
+#EXTINF:-1 group-title="Brazil",BR:  SporTV 1
+http://tooontv.com:999/live/ere3444h/agape/199006.ts
+#EXTINF:-1 group-title="Brazil",BR:  History Channel
+http://tooontv.com:999/live/ere3444h/agape/199012.ts
+#EXTINF:-1 group-title="Brazil",BR:  Disney XD
+http://tooontv.com:999/live/ere3444h/agape/199014.ts
+#EXTINF:-1 group-title="Brazil",BR:  Discovery Channel HD
+http://tooontv.com:999/live/ere3444h/agape/199011.ts
+#EXTINF:-1 group-title="Brazil",BR:  Band HD
+http://tooontv.com:999/live/ere3444h/agape/199018.ts
+#EXTINF:-1 group-title="Brazil",BR: ESPN 2HD
+http://tooontv.com:999/live/ere3444h/agape/199010.ts
+#EXTINF:-1 group-title="Brazil",BR: Dazn 1
+http://tooontv.com:999/live/ere3444h/agape/199008.ts
+#EXTINF:-1 group-title="Brazil",BR: Dazn 2
+http://tooontv.com:999/live/ere3444h/agape/199013.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:HUSTLER HD
+http://tooontv.com:999/live/ere3444h/agape/211075.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:DORCEL HD
+http://tooontv.com:999/live/ere3444h/agape/211078.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:VENUS
+http://tooontv.com:999/live/ere3444h/agape/211070.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PENTHOUSE GOLD HD
+http://tooontv.com:999/live/ere3444h/agape/211055.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Penthouse Passion HD
+http://tooontv.com:999/live/ere3444h/agape/224187.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:VIVID TV EUROPE
+http://tooontv.com:999/live/ere3444h/agape/211073.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PRIVATE HD
+http://tooontv.com:999/live/ere3444h/agape/211069.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:BRAZZERS TV EUROPE
+http://tooontv.com:999/live/ere3444h/agape/211062.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Emanuelle
+http://tooontv.com:999/live/ere3444h/agape/211060.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:RUSSIAN NIGHT
+http://tooontv.com:999/live/ere3444h/agape/211080.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Visit-X TV
+http://tooontv.com:999/live/ere3444h/agape/222885.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:FAKE AGENT HD
+http://tooontv.com:999/live/ere3444h/agape/211049.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PUBLIC AGENT HD
+http://tooontv.com:999/live/ere3444h/agape/65494.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:EVIL ANGEL TV HD
+http://tooontv.com:999/live/ere3444h/agape/211045.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:REDLIGHT HD
+http://tooontv.com:999/live/ere3444h/agape/211059.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:BANGER Z
+http://tooontv.com:999/live/ere3444h/agape/211074.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:EROXXX HD
+http://tooontv.com:999/live/ere3444h/agape/211071.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PINK EROTIC
+http://tooontv.com:999/live/ere3444h/agape/211079.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PINK EROTIC 2
+http://tooontv.com:999/live/ere3444h/agape/211061.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PINK EROTIC 3
+http://tooontv.com:999/live/ere3444h/agape/211064.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PINK EROTIC 4
+http://tooontv.com:999/live/ere3444h/agape/211082.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PINK EROTIC 5
+http://tooontv.com:999/live/ere3444h/agape/211077.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PINK EROTIC 6
+http://tooontv.com:999/live/ere3444h/agape/211056.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX:PINK EROTIC 7
+http://tooontv.com:999/live/ere3444h/agape/211058.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: VIP Japanese HD
+http://tooontv.com:999/live/ere3444h/agape/58175.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Maiden Van Holland HD
+http://tooontv.com:999/live/ere3444h/agape/58176.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Anal 4K
+http://tooontv.com:999/live/ere3444h/agape/58178.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Hot Deluxe
+http://tooontv.com:999/live/ere3444h/agape/58179.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Erotic 1
+http://tooontv.com:999/live/ere3444h/agape/65486.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Erotic 2
+http://tooontv.com:999/live/ere3444h/agape/65487.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Erotic 5
+http://tooontv.com:999/live/ere3444h/agape/65490.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Erotic 6
+http://tooontv.com:999/live/ere3444h/agape/65491.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Dorcel
+http://tooontv.com:999/live/ere3444h/agape/11392.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Venus
+http://tooontv.com:999/live/ere3444h/agape/395.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Private TV
+http://tooontv.com:999/live/ere3444h/agape/1411.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Penthouse
+http://tooontv.com:999/live/ere3444h/agape/393.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Hustler HD
+http://tooontv.com:999/live/ere3444h/agape/1406.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Nuart TV XXX
+http://tooontv.com:999/live/ere3444h/agape/1417.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Nuart TV
+http://tooontv.com:999/live/ere3444h/agape/18770.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Interracial
+http://tooontv.com:999/live/ere3444h/agape/102257.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Amateur
+http://tooontv.com:999/live/ere3444h/agape/57775.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Public
+http://tooontv.com:999/live/ere3444h/agape/57730.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Creampie
+http://tooontv.com:999/live/ere3444h/agape/57722.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Hardcore
+http://tooontv.com:999/live/ere3444h/agape/57729.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BBW Fat girls
+http://tooontv.com:999/live/ere3444h/agape/57733.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Lesbian
+http://tooontv.com:999/live/ere3444h/agape/57720.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Gay
+http://tooontv.com:999/live/ere3444h/agape/57734.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Trans With Guy
+http://tooontv.com:999/live/ere3444h/agape/57719.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA
+http://tooontv.com:999/live/ere3444h/agape/40999.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Balkan Erotic
+http://tooontv.com:999/live/ere3444h/agape/65493.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA 1
+http://tooontv.com:999/live/ere3444h/agape/41002.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA 2
+http://tooontv.com:999/live/ere3444h/agape/41001.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA 3
+http://tooontv.com:999/live/ere3444h/agape/41245.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA 4
+http://tooontv.com:999/live/ere3444h/agape/41246.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA 5
+http://tooontv.com:999/live/ere3444h/agape/41247.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA 6
+http://tooontv.com:999/live/ere3444h/agape/41536.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SIRINA 7
+http://tooontv.com:999/live/ere3444h/agape/41537.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BRAZZERS
+http://tooontv.com:999/live/ere3444h/agape/41218.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BRAZZERS 1
+http://tooontv.com:999/live/ere3444h/agape/41219.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BRAZZERS 2
+http://tooontv.com:999/live/ere3444h/agape/41220.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BRAZZERS 3
+http://tooontv.com:999/live/ere3444h/agape/41248.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Blacked PornBox
+http://tooontv.com:999/live/ere3444h/agape/18790.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: True Anal 1HD
+http://tooontv.com:999/live/ere3444h/agape/18789.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Alpha Adult 10
+http://tooontv.com:999/live/ere3444h/agape/18782.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Alpha Adult 11
+http://tooontv.com:999/live/ere3444h/agape/18781.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Penthouse Gold HD
+http://tooontv.com:999/live/ere3444h/agape/223041.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Penthouse Gold HD 1
+http://tooontv.com:999/live/ere3444h/agape/223050.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Penthouse Gold HD 2
+http://tooontv.com:999/live/ere3444h/agape/223063.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Penthouse Gold HD 3
+http://tooontv.com:999/live/ere3444h/agape/223051.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Penthouse Gold HD 4
+http://tooontv.com:999/live/ere3444h/agape/223048.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Penthouse Gold HD 5
+http://tooontv.com:999/live/ere3444h/agape/223047.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Penthouse Reality TV HD
+http://tooontv.com:999/live/ere3444h/agape/223062.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Hustler HD
+http://tooontv.com:999/live/ere3444h/agape/223053.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | HUSTLER HD 1
+http://tooontv.com:999/live/ere3444h/agape/223061.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | HUSTLER HD 2
+http://tooontv.com:999/live/ere3444h/agape/223052.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | HUSTLER HD 3
+http://tooontv.com:999/live/ere3444h/agape/223039.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | HUSTLER HD 4
+http://tooontv.com:999/live/ere3444h/agape/223058.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | HUSTLER HD 5
+http://tooontv.com:999/live/ere3444h/agape/223059.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Redlight HD
+http://tooontv.com:999/live/ere3444h/agape/223064.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Redlight HD 1
+http://tooontv.com:999/live/ere3444h/agape/223056.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Redlight HD 2
+http://tooontv.com:999/live/ere3444h/agape/223054.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Redlight HD 3
+http://tooontv.com:999/live/ere3444h/agape/223040.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Redlight HD 4
+http://tooontv.com:999/live/ere3444h/agape/223045.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Redlight HD 5
+http://tooontv.com:999/live/ere3444h/agape/223042.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Dorcel XXX HD
+http://tooontv.com:999/live/ere3444h/agape/223043.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Dorcel HD
+http://tooontv.com:999/live/ere3444h/agape/223065.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Dorcel HD 1
+http://tooontv.com:999/live/ere3444h/agape/223060.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Dorcel HD 2
+http://tooontv.com:999/live/ere3444h/agape/223027.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Dorcel HD 3
+http://tooontv.com:999/live/ere3444h/agape/223006.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Dorcel HD 4
+http://tooontv.com:999/live/ere3444h/agape/223038.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Dorcel HD 5
+http://tooontv.com:999/live/ere3444h/agape/222988.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Fantazzy TV
+http://tooontv.com:999/live/ere3444h/agape/223001.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Extasy
+http://tooontv.com:999/live/ere3444h/agape/223007.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Eroxxx HD
+http://tooontv.com:999/live/ere3444h/agape/223032.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Erox HD
+http://tooontv.com:999/live/ere3444h/agape/222991.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Brazzers TV Europe
+http://tooontv.com:999/live/ere3444h/agape/223031.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | XYPlus
+http://tooontv.com:999/live/ere3444h/agape/223020.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | XY max
+http://tooontv.com:999/live/ere3444h/agape/223026.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Reality Kings
+http://tooontv.com:999/live/ere3444h/agape/223010.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Vixen HD
+http://tooontv.com:999/live/ere3444h/agape/222986.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Barely Legal
+http://tooontv.com:999/live/ere3444h/agape/222995.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | VIVID
+http://tooontv.com:999/live/ere3444h/agape/222992.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | VIVID RED HD
+http://tooontv.com:999/live/ere3444h/agape/223016.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | VIVID RED HD 1
+http://tooontv.com:999/live/ere3444h/agape/223012.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | VIVID RED HD 2
+http://tooontv.com:999/live/ere3444h/agape/223000.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | VIVID RED HD 3
+http://tooontv.com:999/live/ere3444h/agape/223003.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | VIVID RED HD 4
+http://tooontv.com:999/live/ere3444h/agape/223024.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | VIVID RED HD 5
+http://tooontv.com:999/live/ere3444h/agape/222994.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Hustler
+http://tooontv.com:999/live/ere3444h/agape/222996.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Blue Hustler
+http://tooontv.com:999/live/ere3444h/agape/223025.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Private TV HD
+http://tooontv.com:999/live/ere3444h/agape/222987.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Private TV HD 1
+http://tooontv.com:999/live/ere3444h/agape/222998.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Private TV HD 2
+http://tooontv.com:999/live/ere3444h/agape/223011.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Private TV HD 3
+http://tooontv.com:999/live/ere3444h/agape/222999.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Private TV HD 4
+http://tooontv.com:999/live/ere3444h/agape/223009.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Private TV HD 5
+http://tooontv.com:999/live/ere3444h/agape/223037.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Playboy TV HD
+http://tooontv.com:999/live/ere3444h/agape/223018.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Playboy TV HD 1
+http://tooontv.com:999/live/ere3444h/agape/223029.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Playboy TV HD 2
+http://tooontv.com:999/live/ere3444h/agape/223017.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Playboy TV HD 3
+http://tooontv.com:999/live/ere3444h/agape/223019.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Playboy TV HD 4
+http://tooontv.com:999/live/ere3444h/agape/223002.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Playboy TV HD 5
+http://tooontv.com:999/live/ere3444h/agape/223013.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | PASSIONXXX
+http://tooontv.com:999/live/ere3444h/agape/223005.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | PASSIONXXX 1
+http://tooontv.com:999/live/ere3444h/agape/222993.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | PASSIONXXX 2
+http://tooontv.com:999/live/ere3444h/agape/223035.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | PASSIONXXX 3
+http://tooontv.com:999/live/ere3444h/agape/223008.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | PASSIONXXX 4
+http://tooontv.com:999/live/ere3444h/agape/222989.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | PASSIONXXX 5
+http://tooontv.com:999/live/ere3444h/agape/222997.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | PassionXXX2
+http://tooontv.com:999/live/ere3444h/agape/223004.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | Evil Angel HD
+http://tooontv.com:999/live/ere3444h/agape/223036.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: TRANS ANGELS
+http://tooontv.com:999/live/ere3444h/agape/224193.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 1
+http://tooontv.com:999/live/ere3444h/agape/223014.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 2
+http://tooontv.com:999/live/ere3444h/agape/222990.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 3
+http://tooontv.com:999/live/ere3444h/agape/223015.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 4
+http://tooontv.com:999/live/ere3444h/agape/223030.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 5
+http://tooontv.com:999/live/ere3444h/agape/223028.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 6
+http://tooontv.com:999/live/ere3444h/agape/223033.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 7
+http://tooontv.com:999/live/ere3444h/agape/223022.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 8 HD
+http://tooontv.com:999/live/ere3444h/agape/223021.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX | MovieStar Planet * HOT 9 HD
+http://tooontv.com:999/live/ere3444h/agape/223023.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SL Erotic
+http://tooontv.com:999/live/ere3444h/agape/224094.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SL HOT 4
+http://tooontv.com:999/live/ere3444h/agape/224087.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SL Hot 6
+http://tooontv.com:999/live/ere3444h/agape/224110.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: SL Hot 9
+http://tooontv.com:999/live/ere3444h/agape/224098.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Blue TV Erotica
+http://tooontv.com:999/live/ere3444h/agape/224099.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Blue TV Anal
+http://tooontv.com:999/live/ere3444h/agape/224092.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Blue TV Blacked RAW
+http://tooontv.com:999/live/ere3444h/agape/224086.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Blue TV Blacked
+http://tooontv.com:999/live/ere3444h/agape/224088.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BlueTV Asian HD
+http://tooontv.com:999/live/ere3444h/agape/224209.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BlueTV Amateur HD
+http://tooontv.com:999/live/ere3444h/agape/224210.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BlueTV 18 Years Old HD
+http://tooontv.com:999/live/ere3444h/agape/224211.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: BlueTV Big Ass HD
+http://tooontv.com:999/live/ere3444h/agape/224213.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX FAKE TAXI
+http://tooontv.com:999/live/ere3444h/agape/224198.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX Massage Rooms
+http://tooontv.com:999/live/ere3444h/agape/224199.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX BUMSBUS
+http://tooontv.com:999/live/ere3444h/agape/224200.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX Sweet Sinner
+http://tooontv.com:999/live/ere3444h/agape/224201.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX THE WHITE BOXXX
+http://tooontv.com:999/live/ere3444h/agape/224203.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Pornbox A girl Knows
+http://tooontv.com:999/live/ere3444h/agape/224204.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX Cherry Grace
+http://tooontv.com:999/live/ere3444h/agape/224205.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX Pure Matures
+http://tooontv.com:999/live/ere3444h/agape/224206.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX CUM 4K
+http://tooontv.com:999/live/ere3444h/agape/224207.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PORNBOX FAMILY SWAP XXX
+http://tooontv.com:999/live/ere3444h/agape/224208.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: XXX Mix 1
+http://tooontv.com:999/live/ere3444h/agape/224091.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Adult 4
+http://tooontv.com:999/live/ere3444h/agape/224111.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Adult 5
+http://tooontv.com:999/live/ere3444h/agape/224085.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PornBox Love Home
+http://tooontv.com:999/live/ere3444h/agape/224105.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Bratty Sis
+http://tooontv.com:999/live/ere3444h/agape/224101.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Babes TV
+http://tooontv.com:999/live/ere3444h/agape/224093.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: VIV Thomas
+http://tooontv.com:999/live/ere3444h/agape/224104.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: HotWife XXX
+http://tooontv.com:999/live/ere3444h/agape/224107.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Amateur BOXXX
+http://tooontv.com:999/live/ere3444h/agape/224106.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Sexco Worker HD
+http://tooontv.com:999/live/ere3444h/agape/224096.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: OSKIjoy
+http://tooontv.com:999/live/ere3444h/agape/224103.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Bam Visions
+http://tooontv.com:999/live/ere3444h/agape/224090.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Female Fake Taxi
+http://tooontv.com:999/live/ere3444h/agape/224188.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: DDF Network HD
+http://tooontv.com:999/live/ere3444h/agape/224189.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Alex Legend
+http://tooontv.com:999/live/ere3444h/agape/224190.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Cherry Pimps
+http://tooontv.com:999/live/ere3444h/agape/224191.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Nubiles TV
+http://tooontv.com:999/live/ere3444h/agape/224192.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PURE TABOO
+http://tooontv.com:999/live/ere3444h/agape/224194.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: HOT GUYS FUCK
+http://tooontv.com:999/live/ere3444h/agape/224195.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: PHubPremium: MOFOS
+http://tooontv.com:999/live/ere3444h/agape/224196.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: Banana Fever
+http://tooontv.com:999/live/ere3444h/agape/224197.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Anal
+http://tooontv.com:999/live/ere3444h/agape/222889.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Live Cams
+http://tooontv.com:999/live/ere3444h/agape/222893.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Big Dick
+http://tooontv.com:999/live/ere3444h/agape/222877.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Big Tits
+http://tooontv.com:999/live/ere3444h/agape/222892.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Blonde
+http://tooontv.com:999/live/ere3444h/agape/222879.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Blowjob
+http://tooontv.com:999/live/ere3444h/agape/222884.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Brunette
+http://tooontv.com:999/live/ere3444h/agape/222874.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Compilation
+http://tooontv.com:999/live/ere3444h/agape/222886.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Cuckold
+http://tooontv.com:999/live/ere3444h/agape/222890.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Fetish
+http://tooontv.com:999/live/ere3444h/agape/222887.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Gangbang
+http://tooontv.com:999/live/ere3444h/agape/222894.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Gay
+http://tooontv.com:999/live/ere3444h/agape/222881.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Hardcore
+http://tooontv.com:999/live/ere3444h/agape/222875.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Latina
+http://tooontv.com:999/live/ere3444h/agape/222891.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Lesbian
+http://tooontv.com:999/live/ere3444h/agape/222888.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net MILF
+http://tooontv.com:999/live/ere3444h/agape/222880.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Pornstar
+http://tooontv.com:999/live/ere3444h/agape/222876.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Rough
+http://tooontv.com:999/live/ere3444h/agape/222882.ts
+#EXTINF:-1 group-title="FOR ADULTS",XXX: AdultIPTV.net Russian
+http://tooontv.com:999/live/ere3444h/agape/222878.ts
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E01
+http://103.161.34.173:8080/series/mertkutun/cimbom/348178.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E02
+http://103.161.34.173:8080/series/mertkutun/cimbom/348179.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E03
+http://103.161.34.173:8080/series/mertkutun/cimbom/348180.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E04
+http://103.161.34.173:8080/series/mertkutun/cimbom/348181.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E05
+http://103.161.34.173:8080/series/mertkutun/cimbom/348182.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E06
+http://103.161.34.173:8080/series/mertkutun/cimbom/348183.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E07
+http://103.161.34.173:8080/series/mertkutun/cimbom/348184.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E08
+http://103.161.34.173:8080/series/mertkutun/cimbom/348185.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E09
+http://103.161.34.173:8080/series/mertkutun/cimbom/348186.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E10
+http://103.161.34.173:8080/series/mertkutun/cimbom/348187.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E11
+http://103.161.34.173:8080/series/mertkutun/cimbom/348188.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E12
+http://103.161.34.173:8080/series/mertkutun/cimbom/348189.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E13
+http://103.161.34.173:8080/series/mertkutun/cimbom/348190.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E14
+http://103.161.34.173:8080/series/mertkutun/cimbom/348191.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E15
+http://103.161.34.173:8080/series/mertkutun/cimbom/348192.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E16
+http://103.161.34.173:8080/series/mertkutun/cimbom/348193.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E17
+http://103.161.34.173:8080/series/mertkutun/cimbom/348194.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E18
+http://103.161.34.173:8080/series/mertkutun/cimbom/348195.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E19
+http://103.161.34.173:8080/series/mertkutun/cimbom/348196.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E20
+http://103.161.34.173:8080/series/mertkutun/cimbom/348197.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E21
+http://103.161.34.173:8080/series/mertkutun/cimbom/348198.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E22
+http://103.161.34.173:8080/series/mertkutun/cimbom/348199.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E23
+http://103.161.34.173:8080/series/mertkutun/cimbom/348200.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E24
+http://103.161.34.173:8080/series/mertkutun/cimbom/348201.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E25
+http://103.161.34.173:8080/series/mertkutun/cimbom/348202.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E26
+http://103.161.34.173:8080/series/mertkutun/cimbom/348203.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E01
+http://103.161.34.173:8080/series/mertkutun/cimbom/342727.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E02
+http://103.161.34.173:8080/series/mertkutun/cimbom/342728.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E03
+http://103.161.34.173:8080/series/mertkutun/cimbom/342729.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E04
+http://103.161.34.173:8080/series/mertkutun/cimbom/342730.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E05
+http://103.161.34.173:8080/series/mertkutun/cimbom/342731.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E06
+http://103.161.34.173:8080/series/mertkutun/cimbom/342732.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E07
+http://103.161.34.173:8080/series/mertkutun/cimbom/342733.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E08
+http://103.161.34.173:8080/series/mertkutun/cimbom/342734.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E09
+http://103.161.34.173:8080/series/mertkutun/cimbom/342735.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E10
+http://103.161.34.173:8080/series/mertkutun/cimbom/342736.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E01
+http://103.161.34.173:8080/series/mertkutun/cimbom/338310.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E02
+http://103.161.34.173:8080/series/mertkutun/cimbom/338311.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E03
+http://103.161.34.173:8080/series/mertkutun/cimbom/338312.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E04
+http://103.161.34.173:8080/series/mertkutun/cimbom/338313.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E05
+http://103.161.34.173:8080/series/mertkutun/cimbom/338314.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E06
+http://103.161.34.173:8080/series/mertkutun/cimbom/338315.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E01
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348178.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E02
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348179.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E03
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348180.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E04
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348181.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E05
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348182.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E06
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348183.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E07
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348184.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E08
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348185.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E09
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348186.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E10
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348187.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E11
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348188.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E12
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348189.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E13
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348190.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E14
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348191.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E15
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348192.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E16
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348193.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E17
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348194.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E18
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348195.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E19
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348196.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E20
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348197.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E21
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348198.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E22
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348199.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E23
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348200.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E24
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348201.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E25
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348202.mp4
+#EXTINF:-1 group-title="DE | KINDER & ANIME SERIES",Hotel Transsilvanien: Die Serie S01 E26
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/348203.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E01
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342727.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E02
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342728.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E03
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342729.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E04
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342730.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E05
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342731.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E06
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342732.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E07
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342733.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E08
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342734.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E09
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342735.mp4
+#EXTINF:-1 group-title="DE | AMAZON SERIES",Bibi & Tina - Die Serie S01 E10
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/342736.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E01
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/338310.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E02
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/338311.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E03
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/338312.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E04
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/338313.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E05
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/338314.mp4
+#EXTINF:-1 group-title="DE | NETFLIX SERIES",Im Auge des Wolfes - Die Serie S01 E06
+http://103.161.34.173:8080/series/Cihanabi/gyu6sA7CBvKe/338315.mp4
